@@ -1,0 +1,4 @@
+paddlepaddle
+paddleocr
+pdf2image
+scikit-learn

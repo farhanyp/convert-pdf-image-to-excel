@@ -1,0 +1,211 @@
+[
+  {
+    "naam": "Naam",
+    "dienst-nummer": "Dienst",
+    "org.eenheid": "Org. Eenheid",
+    "maandag": " Maandag",
+    "dinsdag": "Dinsdag",
+    "woensdag": "Woensdag",
+    "donderdag": "Donderdag",
+    "vrijdag": "Vrijdag",
+    "zaterdag": "Zaterdag",
+    "zondag": "Zondag"
+  },
+  {
+    "dienst-nummer": "nummer",
+    "maandag": "07/04/2025",
+    "dinsdag": "08/04/2025",
+    "woensdag": "09/04/2025",
+    "donderdag": "10/04/2025",
+    "vrijdag": "11/04/2025",
+    "zaterdag": "12/04/2025",
+    "zondag": "13/04/2025"
+  },
+  {
+    "naam": "Akkerman,",
+    "dienst-nummer": "27062202",
+    "org.eenheid": "NHDBBO0",
+    "maandag": "DIENST 07:00 16:30",
+    "dinsdag": "DIENST 13:00 22:30",
+    "donderdag": "DIENST 13:00 22:30",
+    "zaterdag": "[Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "naam": "RAG",
+    "zondag": "24:00 [Vr.zondag] 00:00"
+  },
+  {
+    "naam": "Allis, E",
+    "dienst-nummer": "16181001",
+    "org.eenheid": "NHDBB00",
+    "maandag": "[Rust] 00:00 24:00",
+    "dinsdag": "[Rust] 00:00 07:00",
+    "donderdag": "DIENST 07:00 16:30",
+    "zaterdag": "[Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "dinsdag": "DIENST 07:00 16:30",
+    "zondag": "[Vr.zondag] 00:00"
+  },
+  {
+    "zondag": "24:00"
+  },
+  {
+    "naam": "Alphenaar,",
+    "dienst-nummer": "11451601",
+    "org.eenheid": "NHDBB00",
+    "maandag": "DIENST 09:00 15:30",
+    "woensdag": "DIENST 09:00 15:30",
+    "zaterdag": "DIENST 09:00 15:30[Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "naam": "AMM",
+    "zondag": "24:00 [Vr.zondag] 00:00"
+  },
+  {
+    "naam": "Avsar, UE",
+    "dienst-nummer": "23618604",
+    "org.eenheid": "NHDBB00",
+    "maandag": "[Rust] 00:00 06:00"
+  },
+  {
+    "zondag": "[Rust] 23:00 24:00"
+  },
+  {
+    "naam": "Beentjes, ST",
+    "dienst-nummer": "12302501",
+    "org.eenheid": "NHDBB00",
+    "donderdag": "DIENST 07:00 18:00  DIENST 07:30 17:30 DIENST 08:00 17:30  DIENST 15:00 24:00  DIENST 00:00 02:00 [Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "zondag": "[Vr.zondag] 00:00"
+  },
+  {
+    "zondag": "24:00"
+  },
+  {
+    "naam": "Beira, JP",
+    "dienst-nummer": "11547902",
+    "org.eenheid": "NHDBBO0",
+    "maandag": "DIENST 07:00 16:30",
+    "dinsdag": "DIENST 09:00 12:00",
+    "woensdag": " DIENST 07:00 16:30",
+    "vrijdag": "DIENST 08:00 16:30 DIENST 13:00 22:30",
+    "zaterdag": " DIENST 18:00 24:00",
+    "zondag": " DIENST 00:00 03:00"
+  },
+  {
+    "zondag": "[Rust] 03:00 24:00"
+  },
+  {
+    "naam": "Bennekom,",
+    "dienst-nummer": "25957702",
+    "org.eenheid": "NHDBBO0",
+    "maandag": "[Rust] 00:00 24:00",
+    "dinsdag": "[Rust] 00:00 07:00",
+    "woensdag": "DIENST 07:00 16:30",
+    "donderdag": "DIENST 07:30 17:00",
+    "vrijdag": " DIENST 07:00 16:30",
+    "zaterdag": "[Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "naam": "NP van",
+    "zondag": "24:00 [Vr.zondag] 00:00"
+  },
+  {
+    "dienst-nummer": "Berg, JCB van 14086601",
+    "org.eenheid": "NHDBBO0",
+    "dinsdag": "DIENST 07:00 16:30",
+    "woensdag": " DIENST 07:00 16:30",
+    "vrijdag": "[Rust] 00:00 24:00",
+    "zaterdag": "[Rust] 00:00 24:00",
+    "zondag": " DIENST 08:00 17:30"
+  },
+  {
+    "naam": "den"
+  },
+  {
+    "naam": "Bieman, ICM",
+    "dienst-nummer": "11550901",
+    "org.eenheid": "NHDBBO0",
+    "dinsdag": "DIENST 07:00 16:30 DIENST 07:00 16:30",
+    "woensdag": "DIENST 07:00 16:30",
+    "zaterdag": "[Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "zondag": "[Vr.zondag] 00:00"
+  },
+  {
+    "zondag": "24:00"
+  },
+  {
+    "naam": "Boers, MR",
+    "dienst-nummer": "16112401",
+    "org.eenheid": "NHDBB00",
+    "maandag": "[Rust] 00:00 24:00",
+    "dinsdag": "[Rust] 00:00 07:00",
+    "woensdag": "DIENST 07:00 17:00",
+    "vrijdag": "DIENST 08:00 17:30 DIENST 07:00 16:30",
+    "zaterdag": "[Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "dinsdag": "DIENST 06:30 16:30",
+    "zondag": "[Vr.zondag] 00:00"
+  },
+  {
+    "zondag": "24:00"
+  },
+  {
+    "naam": "Brinkhof, W",
+    "dienst-nummer": "14649501",
+    "org.eenheid": "NHDBBO0",
+    "maandag": "DIENST 08:00 17:30",
+    "donderdag": " DIENST 07:00 16:30 DIENST 08:00 17:30 DIENST 14:00 23:30 [Rust] 00:00 24:00",
+    "zaterdag": "[Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "zondag": "[Vr.zondag] 00:00"
+  },
+  {
+    "zondag": "24:00"
+  },
+  {
+    "naam": "Burrei, MP",
+    "dienst-nummer": "11475401",
+    "org.eenheid": "NHDBBO0",
+    "maandag": "DIENST 07:00 15:30",
+    "dinsdag": "DIENST 08:00 17:30",
+    "donderdag": "DIENST 08:00 17:30",
+    "vrijdag": " DIENST 08:00 17:30",
+    "zaterdag": "[Rust] 00:00 24:00",
+    "zondag": "[Rust] 00:00 24:00"
+  },
+  {
+    "zondag": "[Vr.zondag] 00:00"
+  },
+  {
+    "zondag": "24:00"
+  },
+  {
+    "naam": "Caffio, OJFP",
+    "dienst-nummer": "11310101",
+    "org.eenheid": "NHDBBO0",
+    "maandag": "DIENST 07:00 16:30",
+    "dinsdag": "DIENST 08:00 17:30",
+    "woensdag": " DIENST 08:00 17:30",
+    "donderdag": "DIENST 14:00 23:30",
+    "vrijdag": " DIENST 13:00 22:30",
+    "zondag": " DIENST 00:00 03:00"
+  },
+  {
+    "zondag": "[Rust] 07:00 24:00"
+  }
+]
